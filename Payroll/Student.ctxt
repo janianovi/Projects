@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n\ w\ h
+comment0.target=Student(java.lang.String,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ creating\ the\ variables\ that\ hold\ the\ employee\ name,\ wage,\ and\ hour.\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getEmployee()
+comment1.text=\r\n\ The\ method\ gets\ the\ employee\ name\ and\ returns\ it.\ \r\n\ \r\n\ @param\ \ y\ \ \ none\r\n\ @return\ \ \ \ \ the\ name\ of\ the\ employee\r\n
+comment2.params=
+comment2.target=double\ getWage()
+comment2.text=\r\n\ The\ method\ gets\ the\ employee\ wage\ and\ returns\ it.\ \r\n\ \r\n\ @param\ \ y\ \ \ none\r\n\ @return\ \ \ \ \ the\ amount\ of\ wage\ the\ employee\ gets\ \r\n
+comment3.params=
+comment3.target=double\ getHour()
+comment3.text=\r\n\ The\ method\ gets\ the\ hours\ the\ employee\ works\ and\ returns\ it.\ \r\n\ \r\n\ @param\ \ y\ \ \ none\r\n\ @return\ \ \ \ \ the\ amount\ of\ hours\ the\ employee\ works\r\n
+numComments=4

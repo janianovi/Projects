@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Payroll()
+comment0.text=\r\n\ Constructs\ an\ Arraylist\ named\ employees\ to\ hold\ the\ employees.\ \r\n
+comment1.params=name\ wage\ hour
+comment1.target=void\ addEmployee(java.lang.String,\ double,\ double)
+comment1.text=\r\n\ The\ method\ adds\ the\ employee\ information\ from\ the\ Scanner\ into\ the\ Arraylist.\ \r\n\ \r\n\ @param\ \ y\ \ \ parameters\ initialize\ the\ employee\ name,\ wage\ and\ hour\r\n\ @return\ \ \ \ \ none\ \r\n
+comment2.params=
+comment2.target=void\ calculatePayroll()
+comment2.text=\r\n\ The\ method\ calculates\ the\ income,\ federal\ tax,\ social\ security,\ and\ final\ income\ of\ each\ employee\ and\ lists\ them.\ \r\n\ \r\n\ @param\ \ y\ \ \ none\r\n\ @return\ \ \ \ \ none\ \r\n
+numComments=3
