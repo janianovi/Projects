@@ -1,6 +1,3 @@
 
 
-PROJECT TITLE: PAYROLL
-PURPOSE OF PROJECT: CREATING A PAYROLL FOR EMPLOYEES
-VERSION or DATE: 2016
-AUTHORS: JANIS CHEN
+A Payroll project creating a payroll for the employees of a company. 
