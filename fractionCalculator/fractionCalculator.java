@@ -275,5 +275,5 @@ public class FracCalc
         return result;
 
     }
-
+ 
 }
